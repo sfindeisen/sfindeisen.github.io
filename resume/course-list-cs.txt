@@ -1,0 +1,52 @@
+(1000-211MD1) Discrete Mathematics I
+(1000-211WPF) Introduction to Programming (functional approach)
+(1000-211AL1) Linear Algebra and Its Computational Methods I
+(1000-211AM1) Mathematical Analysis for Computer Science I
+(1000-211WTM) The Fundamentals of Set Theory
+(1000-212MD2) Discrete Mathematics II
+(1000-212AL2) Linear Algebra and Its Computational Methods II
+(1000-212AM2) Mathematical Analysis for Computer Science II
+(1000-212LOG) Mathematical Logic
+(1000-222MPRI) Programming Methods - laboratory (imperative approach)
+(1000-212MPRI) Programming Methods (imperative approach)
+(1000-213aASD) Algorithms and Data Structures
+(1000-213aBAD) Databases
+(1000-223aBAD) Databases - laboratory
+(1000-234aPFU) Functional Programming
+(1000-245aPFU) Functional programming - laboratory
+(1000-213aMNU) Numerical Methods
+(1000-213aPOB) Object-Oriented Programming
+(1000-223aPOB) Object-Oriented Programming - laboratory
+(1000-2N00ALG) Algorithmics
+(1000-214aAKP) Computer Architecture and Low-level Programming
+(1000-214aPWS) Concurrent Programming
+(1000-224aPWS) Concurrent Programming - laboratory
+(1000-00HM1-OG) History of mathematics I
+(1000-214aIOP) Software Engineering
+(1000-224aIOP) Software Engineering - laboratory
+(1000-215aJAO) Automata Theory, Languages and Computations
+(1000-2P00A1) Database Applications in Internet I
+(1000-2N00PLO) Logic Programming
+(1000-2M00TC) Modern TCP/IP Nets
+(1000-215aSOP) Operating Systems
+(1000-225aSOP) Operating Systems - laboratory
+(1000-215aSWP) Program Semantics and Verification
+(1000-2L5ZP1) Team Programming Project I
+(1000-234aMRJ) Compiler construction
+(1000-245aMRJ) Compiler construction - laboratory
+(1000-216aSIK) Computer Networks
+(1000-2P00A2) Database Applications in Internet II
+(1000-245aPLO) Logic programming - laboratory
+(1000-2L5ZP2) Team Programming Project II
+(0000-ANGB2E) Examination in English - B2, upper intermediate level
+(1000-2M00E1) Esthetics of Computer Programming I
+(1000-1M01WT) Introduction to game theory
+(1000-2M02WZ) Selected Problems in Theory of Concurrent Processes
+(1000-2M01XM) XML and Modern Techniques of Content Management
+(1000-2M02TA) Application Development in Multilayer Architecture Based on J2EE Standard
+(1000-2N00SID) Artificial Intelligence and Expert Systems
+(1000-245aSID) Artificial Intelligence and Expert Systems - laboratory
+(1000-2M02RL) Lambda Calculus
+(1000-2D02PK) Communication Protocols
+(1000-2P03SW) Windows 2000 Architecture
+(1000-2D02PK) Communication Protocols

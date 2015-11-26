@@ -1,0 +1,16 @@
+(1000-111bGA1b) Linear algebra and geometry I
+(1000-111bAM1b) Mathematical analysis I.1
+(1000-112bGA2b) Linear algebra and geometry II
+(1000-112bAM2b) Mathematical analysis I.2
+(1000-113bAG1a) Algebra I
+(1000-113bAM3a) Mathematical analysis II.1
+(1000-113bTP1a) Topology I
+(1000-114bAM4a) Mathematical analysis II.2
+(1000-114bRRZa) Ordinary differential equations I
+(1000-114bRP1a) Probability theory I
+(1000-115ST1a) Statistics I
+(1000-134AG2) Algebra II
+(1000-135KRG) Cryptography
+(1000-135AF1) Functional Analysis I
+(1000-1L03GP) Groups, rings and their applications
+(1000-1PRAKZ) Internship for mathematics
